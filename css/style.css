@@ -1,0 +1,14 @@
+.navbar {
+    background: #fff !important;
+}
+
+.signBtn{
+    background-color: #21B573;
+    padding: 10px 25px;
+    border-radius: 25px;
+    
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px;
+}
