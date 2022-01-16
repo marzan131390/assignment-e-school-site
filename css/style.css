@@ -1,14 +1,42 @@
-.navbar {
-    background: #fff !important;
+p{
+    color: gray;
+}
+.container {
+    margin-bottom: 70px;
 }
 
 .signBtn{
     background-color: #21B573;
     padding: 10px 25px;
     border-radius: 25px;
-    
+    color: #fff;
+    border: none;
+}
+
+.header-section {
+    background: #F0FFF0;
 }
 
 .navbar-nav .nav-item {
     margin: 0 15px;
+}
+
+.left-section div {
+    margin-left: 10px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h2 .schedule {
+    color: #21B573;
+}
+
+.course-info .course-content {
+    text-align: center;
+}
+
+.course-info .course-content img {
+    margin-bottom: 20px;
 }
